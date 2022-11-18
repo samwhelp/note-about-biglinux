@@ -15,17 +15,17 @@ grand_parent: 設定
 ## 主題
 
 * [關閉視窗](#關閉視窗)
-* [Fullscreen](#fullscreen)
-* [Maximize](#maximize)
-* [Minimize](#minimize)
-* [BeginMove](#beginmove)
-* [BeginResize](#beginresize)
-* [KeepAbove](#keepabove)
-* [KeepBelow](#keepbelow)
-* [Shade](#shade)
-* [Decorations](#decorations)
-* [Toggle Window Raise/Lower](#toggle-window-raise-lower)
-* [Move Window to Center](#move-window-to-center)
+* [全螢幕](#全螢幕)
+* [最大化](#最大化)
+* [最小化](#最小化)
+* [開始視窗移動](#開始視窗移動)
+* [開始視窗更改大小](#開始視窗更改大小)
+* [永遠在最上方](#永遠在最上方)
+* [永遠在最下方](#永遠在最下方)
+* [內容區塊收合](#內容區塊收合)
+* [切換顯示隱藏視窗裝飾](#切換顯示隱藏視窗裝飾)
+* [將下方視窗移上來](#將下方視窗移上來)
+* [視窗移動至中央部位](#視窗移動至中央部位)
 
 
 ## 關閉視窗
@@ -38,7 +38,7 @@ grand_parent: 設定
 | `Alt + F4`         | Close Window | `Window Close` |
 
 
-## Fullscreen
+## 全螢幕
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L134)
 
@@ -47,7 +47,7 @@ grand_parent: 設定
 | `Win + f` | Make Window Fullscreen | `Window Fullscreen` |
 
 
-## Maximize
+## 最大化
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L138)
 
@@ -56,10 +56,10 @@ grand_parent: 設定
 | `Win + w` | Maximize Window | `Window Maximize` |
 | `Win + PgUp` | Maximize Window | `Window Maximize` |
 
-> Mouse Right Click to Maximize Window on Window Title Bar
+> 也可以在「標題列」，使用「滑鼠左鍵」，點選兩下，切換視窗最大化。
 
 
-## Minimize
+## 最小化
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L141)
 
@@ -69,7 +69,7 @@ grand_parent: 設定
 | `Win + PgDown` | Minimize Window | `Window Minimize` |
 
 
-## BeginMove
+## 開始視窗移動
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L142)
 
@@ -77,10 +77,10 @@ grand_parent: 設定
 | --------- | ---------- | ----------------------------- |
 | `Win + e` | Begin Move Window | `Window Move` |
 
-> 「Escape」 to cancel。
+> 按「Escape」鍵，取消「開始視窗移動」。
 
 
-## BeginResize
+## 開始視窗更改大小
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L164)
 
@@ -88,10 +88,10 @@ grand_parent: 設定
 | --------- | ---------- | ----------------------------- |
 | `Win + r` | Begin Resize Window | `Window Resize` |
 
-> 「Escape」 to cancel。
+> 按「Escape」取消「開始視窗更改大小」。
 
 
-## KeepAbove
+## 永遠在最上方
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L131)
 
@@ -100,7 +100,7 @@ grand_parent: 設定
 | `Win + t` | Keep Window Above Others | `Window Above Other Windows` |
 
 
-## KeepBelow
+## 永遠在最下方
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L132)
 
@@ -109,7 +109,7 @@ grand_parent: 設定
 | `Win + b` | Keep Window Below Others | `Window Below Other Windows` |
 
 
-## Shade
+## 內容區塊收合
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L165)
 
@@ -118,7 +118,7 @@ grand_parent: 設定
 | `Win + y` | Toggle Shade Window | `Window Shade` |
 
 
-## Decorations
+## 切換顯示隱藏視窗裝飾
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L144)
 
@@ -127,7 +127,7 @@ grand_parent: 設定
 | `Win + n` | Toggle Hide Window Border (Decorations) | `Window No Border` |
 
 
-## Toggle Window Raise/Lower
+## 將下方視窗移上來
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L118)
 
@@ -136,7 +136,7 @@ grand_parent: 設定
 | `Win + z` | Toggle Window Raise/Lower | `Toggle Window Raise/Lower` |
 
 
-## Move Window to Center
+## 視窗移動至中央部位
 
 * [設定片段](https://github.com/samwhelp/biglinux-adjustment/blob/main/prototype/keybind/kdebiglinux/modern/kglobalshortcutsrc#L67)
 
