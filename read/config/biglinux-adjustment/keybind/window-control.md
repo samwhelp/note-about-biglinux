@@ -34,8 +34,8 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | ----------------- | -------- | ---------------- |
-| `Win + q`         | Close Window | `Window Close` |
-| `Alt + F4`         | Close Window | `Window Close` |
+| `Win + q`         | 關閉視窗 | `Window Close` |
+| `Alt + F4`         | 關閉視窗 | `Window Close` |
 
 
 ## 全螢幕
@@ -44,7 +44,7 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + f` | Make Window Fullscreen | `Window Fullscreen` |
+| `Win + f` | 視窗全螢幕 | `Window Fullscreen` |
 
 
 ## 最大化
@@ -53,8 +53,8 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + w` | Maximize Window | `Window Maximize` |
-| `Win + PgUp` | Maximize Window | `Window Maximize` |
+| `Win + w` | 視窗最大化 | `Window Maximize` |
+| `Win + PgUp` | 視窗最大化 | `Window Maximize` |
 
 > 也可以在「標題列」，使用「滑鼠左鍵」，點選兩下，切換視窗最大化。
 
@@ -65,8 +65,8 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + x` | Minimize Window | `Window Minimize` |
-| `Win + PgDown` | Minimize Window | `Window Minimize` |
+| `Win + x` | 視窗最小化 | `Window Minimize` |
+| `Win + PgDown` | 視窗最小化 | `Window Minimize` |
 
 
 ## 開始視窗移動
@@ -75,7 +75,7 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + e` | Begin Move Window | `Window Move` |
+| `Win + e` | 開始視窗移動 | `Window Move` |
 
 > 按「Escape」鍵，取消「開始視窗移動」。
 
@@ -86,7 +86,7 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + r` | Begin Resize Window | `Window Resize` |
+| `Win + r` | 開始視窗更改大小 | `Window Resize` |
 
 > 按「Escape」取消「開始視窗更改大小」。
 
@@ -97,7 +97,7 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + t` | Keep Window Above Others | `Window Above Other Windows` |
+| `Win + t` | 視窗保持永遠在最上方 | `Window Above Other Windows` |
 
 
 ## 永遠在最下方
@@ -106,7 +106,7 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + b` | Keep Window Below Others | `Window Below Other Windows` |
+| `Win + b` | 視窗保持永遠在最下方 | `Window Below Other Windows` |
 
 
 ## 內容區塊收合
@@ -115,7 +115,7 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + y` | Toggle Shade Window | `Window Shade` |
+| `Win + y` | 視窗內容區塊收合 | `Window Shade` |
 
 
 ## 切換顯示隱藏視窗裝飾
@@ -124,7 +124,9 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + n` | Toggle Hide Window Border (Decorations) | `Window No Border` |
+| `Win + n` | 切換顯示隱藏視窗裝飾(Decorations) | `Window No Border` |
+
+> 視窗裝飾(Decorations)，最明顯的，就可以看到標題列隱藏或是顯示。
 
 
 ## 將下方視窗移上來
@@ -133,7 +135,7 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + z` | Toggle Window Raise/Lower | `Toggle Window Raise/Lower` |
+| `Win + z` | 將下方視窗移上來 | `Toggle Window Raise/Lower` |
 
 
 ## 視窗移動至中央部位
@@ -142,4 +144,4 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + m` | Move Window to the Center | `Window Move Center` |
+| `Win + m` | 視窗移動至中央部位 | `Window Move Center` |
