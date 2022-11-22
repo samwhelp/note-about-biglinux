@@ -20,4 +20,4 @@ parent: 設定
 
 ## 微調專案
 
-* [biglinux-adjustment](https://github.com/samwhelp/biglinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main)
+* [biglinux-adjustment](https://github.com/samwhelp/biglinux-adjustment/tree/main/prototype)
