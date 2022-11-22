@@ -34,6 +34,6 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
-| `Alt + Ctrl + m`         | 音量切換成靜音   | `mic_mute`     |
-| `Alt + Ctrl + <` | 減小音量         | `decrease_microphone_volume=` |
-| `Alt + Ctrl + >` | 增加音量         | `increase_microphone_volume=` |
+| `Alt + Ctrl + m`         | 麥克風音量切換成靜音   | `mic_mute`     |
+| `Alt + Ctrl + <` | 麥克風減小音量         | `decrease_microphone_volume=` |
+| `Alt + Ctrl + >` | 麥克風增加音量         | `increase_microphone_volume=` |
